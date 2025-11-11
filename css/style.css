@@ -30,3 +30,9 @@ body {
 .end-header{
   margin-top: 88px;
 }
+
+@media (min-width: 992px) {
+  .border-lg-0 {
+    border: none !important;
+  }
+}
