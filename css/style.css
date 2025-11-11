@@ -1,0 +1,32 @@
+body {
+  font-weight: 700;
+}
+
+.navbar-brand img {
+  width: 130px;
+  height: 24px;
+  margin-right: 28px;
+}
+
+.header .navbar {
+  padding-top: 1rem; /* tăng khoảng cách trên */
+  padding-bottom: 1rem; /* tăng khoảng cách dưới */
+  background-color: #a94614 !important;
+}
+
+.header .navbar-nav .nav-link {
+  color: white;
+}
+
+.header .navbar .btn {
+  border: 1px solid white;
+  color: white;
+}
+
+.header .navbar-nav .nav-link:hover {
+  color: yellow;
+}
+
+.end-header{
+  margin-top: 88px;
+}
